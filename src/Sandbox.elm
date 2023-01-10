@@ -57,7 +57,7 @@ view model =
         ,Grid.row[Row.centerXs][
             Grid.col [][h1 [] [ text "Food gallery" ]]]
         ,Grid.row[Row.centerXs][
-            Grid.col [][button [onClick ToggleDetails] [ text "Toggle descriptions" ]]]
+            Grid.col [][button [onClick ToggleDetails] [ text "Toggle details" ]]]
         ,Grid.row[Row.centerXs][
             Grid.col [][viewPhotoAndDetails model "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/gnocchi-1d16725.jpg?quality=90&resize=440,400" 
                                     "Chorizo & mozzarella gnocchi bake"]
