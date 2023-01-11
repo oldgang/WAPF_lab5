@@ -1,0 +1,3 @@
+Zrobić stronkę tak jak w zad1
+W zadaniu drugim i trzecim? eksport ELMa do Javascriptu i dwa różne przyciski:
+(Toggle - schowaj i odkryj) oraz (Toggle - Tak, samo, ale schowane ręcznie pozostają schowane)
